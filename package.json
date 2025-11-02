@@ -1,0 +1,56 @@
+{
+  "name": "nightmare-md",
+  "version": "1.0.0",
+  "description": "Nightmare MD || Jangan dijual om ntar titid lu ilang klo ada orang mau beli script ini, Suruh hubungi owner",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp",
+    "whatsapp",
+    "wabot-aq"
+  ],
+  "homepage": "https://github.com/Tiooxy/Tixo-md",
+  "author": "Tio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiooxy/Tixo-md.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tiooxy/Tixo-md/issues"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "awesome-phonenumber": "^2.68.0",
+    "axios": "^1.13.1",
+    "baileys": "^7.0.0-rc.6",
+    "cfonts": "^3.3.1",
+    "chalk": "^5.6.2",
+    "cheerio": "^1.1.2",
+    "express": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "formdata-node": "^6.0.3",
+    "human-readable": "^0.2.1",
+    "jimp": "^1.6.0",
+    "libphonenumber-js": "^1.12.25",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1",
+    "moment-timezone": "^0.6.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
+    "performance-now": "^2.1.0",
+    "syntax-error": "^1.4.0",
+    "url-regex-safe": "^4.0.0",
+    "yargs": "^18.0.0"
+  }
+}
