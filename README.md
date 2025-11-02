@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/7nHZ9Pj/nightmare-md-banner.png" alt="NightMare-MD" width="80%"/>
+  <img src="https://telegra.ph/file/07428fea2fd4dccaab65f.jpg" alt="NightMare-MD" width="80%"/>
 </p>
 
 <p align="center">
@@ -96,9 +96,11 @@ npm install && npm start
 乂 NightMare - MD/
 ├── plugins/       # Semua plugin disini
 ├── lib/           # Library pendukung
-├── session/       # Session WhatsApp
-├── media/         # File media bot
+├── system/       # Database & Session
+├── tmp/         # File sampah bot
+├── etc         # File Lainnya
 └── config.js      # Konfigurasi utama
+
 ```
 
 ---
@@ -106,7 +108,7 @@ npm install && npm start
 <h2 align="center">📸 Preview</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/Nxr3QMG/preview-nightmare.png" width="70%">
+  <img src="https://telegra.ph/file/e8853a16816c401d3c193-917a005668052e0e7c.jpg" width="70%">
 </p>
 
 ---
